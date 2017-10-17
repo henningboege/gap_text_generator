@@ -1,0 +1,154 @@
+# Buchstabe A
+Das ist ein @Auto.
+Das ist ein @Affe.
+Das ist ein @Auge.
+Das ist ein @Apfel.
+Das ist ein @Anker.
+
+# Buchstabe B
+Das ist ein @Bus.
+Das ist ein @Boot.
+Das ist eine @Bank.
+Das ist ein @Baum.
+Das ist ein @Ball.
+Das ist @Butter.
+Das ist eine @Banane.
+Das ist ein @Buch.
+Das ist eine @Blume.
+Das ist eine @Birne.
+Das ist ein @Bäcker.
+Das ist ein @Besen.
+
+# Buchstabe D
+Das ist ein @Daumen.
+Das ist eine @Dusche.
+Das ist eine @Dose.
+
+# Buchstabe E
+Das ist ein @Elefant.
+Das ist ein @Eimer.
+Das ist ein @Esel.
+Das ist ein @Euter.
+Das ist eine @Eule.
+
+# Buchstabe F
+Das ist ein @Fahrrad.
+Das ist eine @Feder.
+Das ist ein @Fenster.
+Das ist eine @Fahne.
+Das ist ein @Fisch.
+Das ist ein @Feuer.
+Das ist ein @Fuß.
+Das ist ein @Finger.
+
+# Buchstabe H
+Das ist ein @Haus.
+Das ist ein @Hase.
+Das ist ein @Hahn.
+Das ist ein @Hund.
+Das ist eine @Hand.
+Das ist eine @Hose.
+
+# Buchstabe I
+Das ist ein @Igel.
+
+# Buchstabe K
+Das ist ein @Koffer.
+Das ist @Käse.
+Das ist eine @Katze.
+Das ist eine @Kanne.
+Das ist eine @Kuh.
+Das ist ein @Korken.
+Das ist ein @Kamel.
+Das ist eine @Kirche.
+Das ist ein @Kissen.
+
+# Buchstabe L
+Das ist eine @Leiter.
+Das ist eine @Lampe.
+Das ist ein @Löffel.
+Das ist eine @Lupe.
+Das ist eine @Locke.
+Das ist ein @Löwe.
+
+# Buchstabe M
+Das ist eine @Maus.
+Das ist eine @Mücke.
+Das ist @Mais.
+Das ist ein @Maulwurf.
+Das ist ein @Messer.
+Das ist eine @Muschel.
+Das ist ein @Mantel.
+Das ist der @Mond.
+Das ist eine @Mütze.
+
+# Buchstabe N
+Das sind @Nudeln.
+Das ist eine @Nase.
+Das ist eine @Nadel.
+Das ist ein @Nashorn.
+Das ist ein @Nilpferd.
+Das ist ein @Nagel.
+
+# Buchstabe O
+Das ist ein @Ohr.
+Das ist ein @Ofen.
+
+# Buchstabe P
+Das ist ein @Polizist.
+Das ist ein @Papagei.
+Das ist ein @Paprika.
+Das ist ein @Pudel.
+Das ist eine @Pistole.
+Das ist ein @Pelikan.
+Das ist ein @Pudding
+
+# Buchstabe R
+Das ist ein @Rabe.
+Das ist ein @Reh.
+Das ist ein @Rad.
+Das ist ein @Reifen.
+Das ist ein @Rock.
+Das ist eine @Rose.
+Das ist ein @Radio.
+
+# Buchstabe S
+Das ist ein @Schuh.
+Das ist eine @Schere.
+Das ist ein @Sofa.
+Das ist eine @Suppe.
+Das ist die @Sonne.
+Das ist ein @Sieb.
+Das ist @Seife.
+Das ist @Salat.
+Das ist eine @Schaukel.
+Das ist eine @Schokolade.
+Das ist eine @Schüssel.
+Das sind @Schienen.
+Das ist ein @Schaf.
+Das ist ein @Spaten.
+Das ist ein @Schal.
+
+# Buchstabe T
+Das ist eine @Tasse.
+Das sind @Tomaten.
+Das ist ein @Teller.
+Das ist ein @Topf.
+Das ist ein @Telefon.
+Das ist ein @Tisch.
+
+# Buchstabe U
+Das ist eine @Uhr.
+
+# Buchstabe W
+Das ist eine @Waffel.
+Das ist eine @Wolf.
+Das ist ein @Wald.
+Das ist ein @Wurm.
+Das ist ein @Wal.
+Das ist eine @Wiese.
+Das ist ein @Weihnachtsbaum.
+Das ist eine @Wolke.
+Das ist eine @Wespe.
+
+

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>LT Generator</title>
+    <script src="lt_gen.js"></script>
+</head>
+<body>
+        <form id="formular">
+            <label for="initial_character_filter">Buchstaben-Filter:</label>
+            <input id="initial_character_filter" name="Buchstaben Folter" type = "text" minlength="1" maxlength="100" required> 
+            <label for="lines_per_page">Zeilen pro Seite:</label>
+            <input id="lines_per_page" name="Zeilen pro Seite" type="number" min="1" max="20" value="10" required> 
+            <label for="max_word_len">Max. Wortlänge:</label>
+            <input id="max_word_len" name="Max. Wortlänge" type="number" min="1" max="99" value="15" required> 
+            <label for="uppercase">Großbuchstaben:</label>
+            <input id="uppercase" name="Grossbuchstaben" type="checkbox"  checked="checked"> 
+            <button type="button" id="onGenerate">Lückentexte generieren</button>
+        </form>
+        <hr>
+        <div>
+            <h3>Anleitung:</h3>
+            <ol>
+                <li>Gewünschte Anfangsbuchstagen im Buchstaben-Filter eingeben. Der <b>*</b> steht für beliebige Zeichen.</li>
+                <li>Zeilen pro Seite einstellen, falls der voreingestellte Wert nicht gewünscht wird.</li>
+                <li>Max. Worllänge einstellen, falls der voreingestellte Wert nicht gewünscht wird.</li>
+                <li>Den <b>Lückentext generieren</b> Knopt drücken. <br> Es werden dann nach den Zufallsprinzip passende Vorlagen ausgewählt und der erzeugte Text in einem neuen Fenster oder Reiter angezeigt</li>
+            </ol>
+            <p><b>Beispiel für Buchstaben-Filter:</b>
+                <ul>
+                    <li><b>BL</b> generiert eine Übungsblatt für Worte mit den Anfangsbuchstaben <b>B</b> und <b>L</b>.</li>
+                    <li><b>BL BL BL</b> generiert 3 Übungsblätter für Worte mit den Anfangsbuchstaben <b>B</b> und <b>L</b>.</li>
+                    <li><b>AF *</b> generiert ein Übungsblätt für Worte mit den Anfangsbuchstaben <b>A</b> und <b>F</b><br> und ein Übungsblatt für Worte mit beliebigen Anfangsbuchstaben .</li>
+                </ull>
+            <p> 
+        </div>
+        <hr>
+        <div>
+            <h3>Original Vorlagen:</h3>
+            <object form="formular" id="templates" data="lt_gen_vorlagen.txt" type="text/plain" width="600" height="600" onload="onTemplatesLoaded()"></object> 
+        </div>
+    </body>
+</html>
